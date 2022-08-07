@@ -1,2 +1,1 @@
-# golang-google-pubsub-demo
-Golang Google PubSub Implement
+# Golang Google PubSub Implement
